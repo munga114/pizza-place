@@ -2,3 +2,6 @@
 html,body {
   scroll-behavior: smooth;
 }
+ul,li,a {
+	color: white;
+}
