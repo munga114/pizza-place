@@ -142,3 +142,6 @@ td,th{
     color: white;
     font-size: 30px;
 }
+#addedprice{
+    display: none;
+}
