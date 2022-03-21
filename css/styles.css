@@ -117,4 +117,9 @@ span.emoji {
 .order h2 {
     text-align: center;
 }
+.choice{
+    display: none;
+    padding-left: 2%;
+    padding-right: 2%;
+}
   
