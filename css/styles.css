@@ -73,3 +73,9 @@ span.emoji {
       font-size: 30px;
     }
 }
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    .content h3 {
+      font-size: 30px;
+    }
+}
+  
