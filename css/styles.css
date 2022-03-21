@@ -90,4 +90,11 @@ span.emoji {
       margin-right: 20px
     }
 }
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    .content h5 {
+      font-size: 18px;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+}
   
