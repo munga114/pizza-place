@@ -145,3 +145,10 @@ td,th{
 #addedprice{
     display: none;
 }
+#finallmessage{
+    display: none;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-size: 28px;
+}
