@@ -223,3 +223,12 @@ footer .contact-info ul li em {
 	font-style: normal;
 	font-weight: 500;
 }
+footer .connect-us h4 {
+	margin-top: 0px;
+	font-size: 17px;
+	font-weight: 500;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	margin-bottom: 35px;
+}
