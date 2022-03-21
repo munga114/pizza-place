@@ -232,3 +232,7 @@ footer .connect-us h4 {
 	letter-spacing: 0.5px;
 	margin-bottom: 35px;
 }
+footer .connect-us ul li {
+	display: inline-block;
+	margin-right: 2px;
+}
