@@ -78,4 +78,9 @@ span.emoji {
       font-size: 30px;
     }
 }
+.content h5 {
+    font-size: 23px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
   
