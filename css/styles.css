@@ -38,3 +38,9 @@ nav .navbar {
     font-size: 4.5em;
     font-family: 'UnifrakturMaguntia', serif;
 }
+.first p {
+	color:yellow;
+	font-size: 1.3rem;
+	line-height: 1.5;
+	font-size: 2em;
+}
