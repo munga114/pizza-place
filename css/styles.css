@@ -5,3 +5,7 @@ html,body {
 ul,li,a {
 	color: white;
 }
+nav .navbar {
+	margin: 0;
+	width: 95%;
+}
