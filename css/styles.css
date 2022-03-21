@@ -248,3 +248,6 @@ footer .connect-us ul li a {
   transition: all 0.3s;
   padding: 0px 0 20px;
 }
+footer .connect-us ul li a:hover {
+	background-color: #f7c552;
+}
