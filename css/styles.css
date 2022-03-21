@@ -57,3 +57,6 @@ span.emoji {
     font-size: 1.2rem !important;
     font-family: 'Pompiere', serif;
 }
+.carousel-item.active, .carousel-item .view {
+    height: 70vh!important;
+}
