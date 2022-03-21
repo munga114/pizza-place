@@ -60,3 +60,8 @@ span.emoji {
 .carousel-item.active, .carousel-item .view {
     height: 70vh!important;
 }
+.carousel-item img {
+    object-fit: cover;
+    width:100%!important;
+    height: 100% !important;
+}
