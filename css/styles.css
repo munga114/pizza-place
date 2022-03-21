@@ -163,3 +163,7 @@ td,th{
     padding-left: 5%;
     color: #ffa500;
 }
+button {
+    border-radius: 15px;
+    background-color: crimson;
+}
