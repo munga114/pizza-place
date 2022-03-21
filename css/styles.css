@@ -125,4 +125,8 @@ span.emoji {
 .deliver{
     display: none;
 }
-  
+.pick-up{
+    display: none;
+    padding-left: 10%;
+    padding-right: 10%;
+}
