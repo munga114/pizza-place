@@ -219,3 +219,7 @@ footer .contact-info ul li {
 	font-weight: 300;
 	margin-bottom: -15px;
 }
+footer .contact-info ul li em {
+	font-style: normal;
+	font-weight: 500;
+}
