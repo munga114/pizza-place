@@ -167,3 +167,8 @@ button {
     border-radius: 15px;
     background-color: crimson;
 }
+footer {
+	margin-top: -6px;
+	background-color: crimson;
+	padding: 50px 0px;
+}
